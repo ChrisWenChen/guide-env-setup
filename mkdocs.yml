@@ -1,0 +1,36 @@
+site_name: A Guide to Setting Up a Many-Body Computational Research Environment
+
+theme:
+  name: material
+  language: en
+
+plugins:
+  - search
+  - i18n:
+      default_language: zh
+      docs_structure: suffix
+      languages:
+        - locale: zh
+          name: 中文
+          build: true
+        - locale: en
+          name: English
+          build: true
+          default: true
+      nav_translations:
+        zh: 
+          Home: 主页
+        en:
+          Home: Home
+
+nav:
+  - Home: index.md
+
+extra:
+  alternate:
+    - name: 中文
+      link: /zh/
+      lang: zh
+    - name: English
+      link: /en/
+      lang: en
