@@ -1,4 +1,4 @@
-site_name: A Guide to Setting Up a Many-Body Computational Research Environment
+site_name: A Guide to Setting Up a Research Environment for Many-Body Computations
 site_url: https://chriswenchen.github.io/guide-env-setup/
 use_directory_urls: true
 
@@ -21,8 +21,22 @@ plugins:
           site_name: 多体计算研究环境搭建指南
           nav:
             - 首页: index.md
+  - macros
 
 nav:
   - Home: index.md
 
 
+
+extra:
+  alternate:
+    - name: English
+      link: /guide-env-setup/
+      lang: en
+    - name: 中文
+      link: /guide-env-setup/zh/
+      lang: zh
+  version: 3.0.0
+  release_date: 2026-02-14
+  author: Wen Chen
+  email: "wenchenphy@gmail.com"
