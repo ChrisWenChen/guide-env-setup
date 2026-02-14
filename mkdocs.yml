@@ -1,4 +1,6 @@
 site_name: A Guide to Setting Up a Many-Body Computational Research Environment
+site_url: https://chriswenchen.github.io/guide-env-setup/
+use_directory_urls: true
 
 theme:
   name: material
@@ -24,12 +26,3 @@ nav:
   - Home: index.md
 
 
-
-extra:
-  alternate:
-    - name: English
-      link: /
-      lang: en
-    - name: 中文
-      link: /zh/
-      lang: zh
