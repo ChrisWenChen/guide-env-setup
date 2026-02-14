@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <url>
-        <loc>https://wenchen.github.io/guide-env-setup/</loc>
+        <loc>https://chriswenchen.github.io/guide-env-setup/</loc>
         <lastmod>2026-02-14</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://wenchen.github.io/guide-env-setup/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://wenchen.github.io/guide-env-setup/zh/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://chriswenchen.github.io/guide-env-setup/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://chriswenchen.github.io/guide-env-setup/zh/"/>
     </url>
     <url>
-        <loc>https://wenchen.github.io/guide-env-setup/zh/</loc>
+        <loc>https://chriswenchen.github.io/guide-env-setup/zh/</loc>
         <lastmod>2026-02-14</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://wenchen.github.io/guide-env-setup/zh/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://wenchen.github.io/guide-env-setup/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://chriswenchen.github.io/guide-env-setup/zh/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://chriswenchen.github.io/guide-env-setup/"/>
     </url>
 </urlset>
