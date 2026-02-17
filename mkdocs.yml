@@ -21,10 +21,12 @@ plugins:
           site_name: 多体计算研究环境搭建指南
           nav:
             - 首页: index.md
+            - 网盘与文件同步: sync.md
   - macros
 
 nav:
   - Home: index.md
+  - Cloud Storage and File Synchronization: sync.md
 
 
 

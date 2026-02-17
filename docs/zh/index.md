@@ -4,8 +4,7 @@
 
 我们不仅覆盖核心计算工具链——Python、Julia、Fortran/C/C++、MPI、BLAS/LAPACK（包括OpenBlas/MKL）、PETSc/SLEPc，还精心整理了科研日常必备工具：网盘同步、文献管理（Zotero）、版本控制（Git）、终端优化等，让你的科研工作事半功倍。
 
-所有示例代码均已通过测试，并托管在 GitHub 仓库 [[
-guide-env-setup](https://github.com/ChrisWenChen/guide-env-setup)/codes/] 中，你可以随时下载验证或参考。
+所有示例代码均已通过测试，并托管在 GitHub 仓库 [guide-env-setup/codes](https://github.com/ChrisWenChen/guide-env-setup/tree/main/codes) 中，你可以随时下载验证或参考。
 
 ---
 
